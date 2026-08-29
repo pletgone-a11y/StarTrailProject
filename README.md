@@ -3,6 +3,13 @@
 > A lightweight, open-source Minecraft launcher focused on simplicity, customization and performance.
 
 Star Trail Launcher is an open-source Minecraft launcher designed to provide a simple and customizable way to manage Minecraft installations, instances and modpacks.
+## Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/launcher.png" width="45%">
+  <img src="docs/screenshots/instances.png" width="45%">
+</p>
+
 
 ## Features
 
@@ -49,8 +56,8 @@ Download the latest installer from the [Releases](../../releases) page and follo
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/star-trail-launcher.git
-cd star-trail-launcher
+git clone https://github.com/pletgone-a11y/star-trail-launcher.git
+cd STL
 ```
 
 Install dependencies:
